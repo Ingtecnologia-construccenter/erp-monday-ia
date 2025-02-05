@@ -1,0 +1,1 @@
+Mano de obra para calculo de nómina.
